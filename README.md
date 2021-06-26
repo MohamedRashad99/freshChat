@@ -1,4 +1,4 @@
-# chat_rashad
+# chat
 
 A new Flutter application.
 
