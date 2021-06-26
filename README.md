@@ -1,6 +1,6 @@
 # chat
 
-A new Flutter application.
+A Freshchat Flutter SDK integration steps.
 
 https://support.freshchat.com/support/solutions/articles/50000003343-freshchat-flutter-sdk-integration-steps#9.1-Sample-App
 
