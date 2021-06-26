@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+https://support.freshchat.com/support/solutions/articles/50000003343-freshchat-flutter-sdk-integration-steps#9.1-Sample-App
+
+https://pub.dev/packages/freshchat_sdk/install
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
